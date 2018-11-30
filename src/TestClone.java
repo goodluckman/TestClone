@@ -5,6 +5,7 @@ public class TestClone {
 		System.out.println("welcome to Git!");
 		System.out.println("modified by UserB");
 		System.out.println("test git pull");
+		System.out.println("modified by hot_fix branch");
 	}
 
 }
